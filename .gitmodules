@@ -1,0 +1,4 @@
+[submodule "submodules/geant4"]
+	path = submodules/geant4
+	url = https://github.com/EgyipTomi425/geant4.git
+	branch = master

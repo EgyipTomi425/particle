@@ -2,3 +2,7 @@
 	path = submodules/geant4
 	url = https://github.com/EgyipTomi425/geant4.git
 	branch = master
+[submodule "submodules/Particle_Physics_Visualization"]
+	path = submodules/Particle_Physics_Visualization
+	url = https://github.com/martinsandor707/Particle_Physics_Visualization.git
+	branch = main

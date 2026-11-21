@@ -2,6 +2,36 @@
 /outputs/*
 !/outputs/.gitkeep
 
+# Local datasets and processed data (do not commit downloaded or generated data)
+/data/
+/datasets/
+/ingest/
+/files/data/
+/files/datasets/
+
+# Dataset and scientific data formats (at any depth)
+*.csv
+*.tsv
+*.parquet
+*.arrow
+*.feather
+*.jsonl
+*.ndjson
+*.root
+*.hepmc
+*.hepmc3
+*.lhe
+*.h5
+*.hdf
+*.hdf5
+*.npy
+*.npz
+*.duckdb
+*.sqlite
+*.sqlite3
+*.db
+*.dat
+
 # Build artifacts
 /build/
 /cmake-build-*/

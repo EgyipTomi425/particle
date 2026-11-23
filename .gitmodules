@@ -14,3 +14,7 @@
 	path = submodules/models-particle
 	url = https://github.com/EgyipTomi425/models-particle.git
 	branch = master
+[submodule "submodules/Echter_XGBoost"]
+	path = submodules/Echter_XGBoost
+	url = https://github.com/EgyipTomi425/Echter_XGBoost.git
+	branch = main

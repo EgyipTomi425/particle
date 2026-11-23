@@ -6,3 +6,11 @@
 	path = submodules/Particle_Physics_Visualization
 	url = https://github.com/martinsandor707/Particle_Physics_Visualization.git
 	branch = main
+[submodule "submodules/shape-form-particle"]
+	path = submodules/shape-form-particle
+	url = https://github.com/EgyipTomi425/shape-form-particle.git
+	branch = master
+[submodule "submodules/models-particle"]
+	path = submodules/models-particle
+	url = https://github.com/EgyipTomi425/models-particle.git
+	branch = master
